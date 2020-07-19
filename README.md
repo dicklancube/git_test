@@ -1,1 +1,1 @@
-This is Dickla Nucbe's first git project
+This is Dickla Ncube's( the web developer) first git project 
